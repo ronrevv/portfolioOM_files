@@ -1,0 +1,22 @@
+{
+  "name": "om-w-motions-portfolio",
+  "version": "1.0.0",
+  "description": "OM W MOTIONS — Cinematographer OM Vaisnav Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve . -p 3000",
+    "start": "npx serve . -p 3000",
+    "serve": "npx serve . -p 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "cinematographer",
+    "filmmaker",
+    "om-vaisnav"
+  ],
+  "author": "OM Vaisnav",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
